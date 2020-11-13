@@ -1,0 +1,26 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  line-height: 1.4;
+  background-color: #f1f3f6;
+  height: 100%;
+  margin: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
